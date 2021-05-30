@@ -1,7 +1,7 @@
-### Project: School_District_Analysis
+## Project: School_District_Analysis
 Working with Anaconda, Jupyter Notebook, Python and Pandas to analyze data for a school district.
 
-## Overview of the school district analysis
+### Overview of the school district analysis
 This challenge invovled working with the school district to create a program that could efficiently interpret a large dataset of high school students in one school district and display easy-to-read tables that show the student scores within certain grades and schools.  Here are list of required deliverables from the district:
 - Provide a snapshot of the district's key metrics presented in table format
 - Provide an overview of the key metrics for each school in table format
@@ -14,7 +14,7 @@ Three other deliverables have been taken into account:
 2: Repeat the school district analysis to check for errors and fraud
 3: A written report for the school district analysis
 
-## Summary of data analysis
+### Summary of data analysis
 
 By conducting this analysis, the school district can effectively determine their next steps in terms of funding per student capita, per school, and even per grade based on the results provided.  The data shown will allow also coduct a comparison of the student success percentages on reading versus math, the passing percentages and the overall percentages of passing students.  I've also created grouping of student scores by the school spending, the school size and the type of school.
 
@@ -36,7 +36,7 @@ Next is the Scores by School Spending and School Size:
 Lastly, this dataframe shows the Scores by School Type:
 !ScoresByType[./Resources/ScoresByType.PNG]
 
-## Summary
+### Summary
 To depict the non-evidence of fraud, four changes were made to our case study school - Thomas High.  First I removed isolated all of the ninth grade students.  Then erased all of their reading and math scores to zero.  Then I repeated the school analysis, made sure the data was clean, then recalculated the percentages found and added those percentages to the dataframes.  Without just displaying those calculations, a variable was created to ensure the right values were inputed into the table.  The findings were exactly the same as the original values in the initial dataset, so that proves that there was no fraud involved with this dataset.
 
 Since this group of ninth-graders was isolated from the rest of the dataset, I went ahead and compared their passing percentages, the number of students that passed both reading and math as well as obtained their overall passing percentage.
