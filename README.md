@@ -27,14 +27,16 @@ This program was written to automate and calculate the passing percentages of a 
 With the work conducted by this program the district is able to take a deeper dive into analyzing the ninth-grade scores for Thomas High School, for example.   The case study was to replace their ninth-grade scores which may further provide information on how the other students scores are affected in passing percentages.
 
 
-As an example of some of the data uncovered by this program, I've taken a snip of the Math Versus Reading Scores Per Grade:
-!mathVsReading.PNG[./Resources/mathVsReading.PNG]
+#### As an example of some of the data uncovered by this program, I've taken a snip of the Math Versus Reading Scores Per Grade:
 
-Next is the Scores by School Spending and School Size:
-!ScoresBySpending[./Resources/ScoresBySpending.PNG]
+![mathVsReading.PNG](./Resources/mathVsReading.PNG)
 
-Lastly, this dataframe shows the Scores by School Type:
-!ScoresByType[./Resources/ScoresByType.PNG]
+#### Next is the Scores by School Spending and School Size:
+
+![ScoresBySpending.PNG](./Resources/ScoresBySpending.PNG)
+
+#### Lastly, this dataframe shows the Scores by School Type:
+![ScoresByType](./Resources/ScoresByType.PNG)
 
 ### Summary
 To depict the non-evidence of fraud, four changes were made to our case study school - Thomas High.  First I removed isolated all of the ninth grade students.  Then erased all of their reading and math scores to zero.  Then I repeated the school analysis, made sure the data was clean, then recalculated the percentages found and added those percentages to the dataframes.  Without just displaying those calculations, a variable was created to ensure the right values were inputed into the table.  The findings were exactly the same as the original values in the initial dataset, so that proves that there was no fraud involved with this dataset.
