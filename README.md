@@ -35,6 +35,8 @@ With the work conducted by this program the district is able to take a deeper di
 
 ![ScoresBySpending.PNG](./Resources/ScoresBySpending.PNG)
 
+![ScoresBySize.PNG](./Resources/ScoresBySize.PNG)
+
 #### Lastly, this dataframe shows the Scores by School Type:
 ![ScoresByType](./Resources/ScoresByType.PNG)
 
