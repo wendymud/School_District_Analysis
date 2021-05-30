@@ -41,7 +41,7 @@ With the work conducted by this program the district is able to take a deeper di
 ![ScoresByType](./Resources/ScoresByType.PNG)
 
 ### Summary
-To depict the non-evidence of fraud, four changes were made to our case study school - Thomas High.  First I removed isolated all of the ninth grade students.  Then erased all of their reading and math scores to zero.  Then I repeated the school analysis, made sure the data was clean, then recalculated the percentages found and added those percentages to the dataframes.  Without just displaying those calculations, a variable was created to ensure the right values were inputed into the table.  The findings were exactly the same as the original values in the initial dataset, so that proves that there was no fraud involved with this dataset.
+To depict the non-evidence of fraud, four changes were made to our case study school - Thomas High.  First I removed isolated all of the ninth grade students.  Then erased all of their reading and math scores to zero.  Then I repeated the school analysis, made sure the data was clean, then recalculated the percentages found and added those percentages to the dataframes.  Without just displaying those calculations, a variable was created to ensure the right values were inputed into the table without user intervention.  The findings were exactly the same as the original values in the initial dataset, so that proves that there was no fraud involved with this dataset.
 
 Since this group of ninth-graders was isolated from the rest of the dataset, I went ahead and compared their passing percentages, the number of students that passed both reading and math as well as obtained their overall passing percentage.
 
